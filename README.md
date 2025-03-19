@@ -1,6 +1,5 @@
 #  Machine Learning Basics
 
-## 🧠 Understanding the Basics of ML
 
 ## 🚀 Steps in a Machine Learning Project
 
